@@ -35,7 +35,7 @@ public class Exercicio03 {
             if (trabalho.equalsIgnoreCase("S")) {
                 cont++;
             }
-        //System.out.println(cont);
+
             switch (cont){
 
                 case 0:
@@ -58,16 +58,5 @@ public class Exercicio03 {
                     break;
 
             }
-
-  //          if (cont <=0){
-  //              System.out.println("inocente");
-  //          }else if (cont <=2) {
-  //              System.out.println("suspeita");
-  //          }else if (cont <=4){
-   //             System.out.println("Cúmplice");
-    //        }else{
-  //              System.out.println("culpado");
-  //      }
-
     }
 }
